@@ -27,7 +27,7 @@
 
 import React from 'react'
 import { useState,useRef,useEffect} from 'react';
-import Terminal_sty from './Terminal_sty'
+import Terminal_sty from './terminal_sty'
 import Help from './Help'
 import Terminal_body from './Terminal_body';
 import { nanoid } from '@reduxjs/toolkit';
