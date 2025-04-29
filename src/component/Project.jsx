@@ -49,7 +49,7 @@ export default function Project() {
       <div className="mt-16 text-center text-gray-300 text-sm">
         Want to see more?{" "}
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/sourav-khilari"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-400 underline hover:text-blue-300"
