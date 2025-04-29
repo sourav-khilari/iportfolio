@@ -31,7 +31,7 @@ export default function Terminal_body({ value ,index,size}) {
         break;
       case "github":
         if(index===size-1)
-         window.open("https://github.com/sourav-khilari/hackspire-crime_control", "_blank")
+         window.open("https://github.com/sourav-khilari/", "_blank")
 
         
         return null; // Prevent further rendering
