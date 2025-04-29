@@ -32,7 +32,7 @@ const initialState = {
         {
             id: 1,
             title: "My Bid",
-            description: "A finance tracker app with reward system and banking insights.",
+            description: " Designed and implemented a full-stack bidding platform that lets users browse listings, place and update bids in real time, and view winning offers",
             tech: ["React", "Tailwind", "Redux","Node.js","Express.js","MongoDB"],
             github: "https://github.com/sourav-khilari/Bid",
             demo: "https://auction-l219.vercel.app/",
@@ -41,7 +41,7 @@ const initialState = {
         {
             id: 2,
             title: "Ev Dashboard",
-            description: "A terminal-like portfolio with interactive commands.",
+            description: "EV Dashboard visualizes key electric vehicle trends—like adoption by year, range distribution, and top manufacturers—using real CSV data",
             tech: ["React", "Tailwind", "Redux"],
             github: "https://github.com/sourav-khilari/Ev_Dashboard",
             demo: "https://ev-dashboard-sand.vercel.app/",
